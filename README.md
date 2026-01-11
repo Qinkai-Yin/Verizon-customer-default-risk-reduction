@@ -8,7 +8,7 @@ and interactive product demos to support risk-aware decision making.
 ## Executive Dashboard (Looker Studio)
 ![Looker Dashboard](images/looker_dashboard_overview.png)
 
-## Product Demo (Streamlit)
+## Product Demo
 ![Streamlit Demo](images/streamlit_product_demo.png)
 
 ## Profit Impact
